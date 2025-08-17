@@ -1,2 +1,3 @@
-# DandenongRangesRoutes
-Trail running routes in the Dandenong Rnages
+# GPXRoutesFinder
+A means of finding routes in a location
+- initially for the Dandenong Ranges, Victoria, Australia
